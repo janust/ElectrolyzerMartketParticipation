@@ -5,7 +5,7 @@ integer linear programs and are solved using Gurobi 6.5.0.
 Further the code makes several plotting and out of sample calculations.
 A master thesis was prepared as part of the work which gives a detailed
 description of the theory behind. The thesis can be obtained by contacting
-janus@toaugaard.net.
+janus@tougaard.net.
 
 ----
 
